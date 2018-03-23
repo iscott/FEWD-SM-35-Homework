@@ -1,0 +1,35 @@
+body {
+	font-family: 'Comic Sans MS';
+}
+
+/*p {
+	color: blue;
+	font-weight: 800;
+}*/
+
+blockquote {
+  border-left: 5px solid #EEE;
+  padding: 0 0 0 .7em;
+  margin: 0;
+}
+
+blockquote p {
+	color: #999999;
+    font-style: italic;
+    font-weight: bold;
+    margin: 12px 40px;
+}
+
+h1 {
+	/*display: inline;*/
+}
+
+.highlight {
+	color: blue;
+	background-color: yellow;
+}
+
+.orange {
+	background-color: orange;
+}
+
